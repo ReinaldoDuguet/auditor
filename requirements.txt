@@ -1,0 +1,15 @@
+asgiref==3.4.1
+backports.zoneinfo;python_version<"3.9"
+Django==4.0.1
+djangorestframework==3.13.0
+python-magic
+#python-magic-bin
+pytz==2021.3
+sqlparse==0.4.2
+Pillow==9.0.0
+django-cors-headers==3.11.0
+django-environ==0.8.1
+psycopg2
+PyYAML==6.0
+uritemplate==4.1.1
+django-rest-swagger==2.2.0
